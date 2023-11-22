@@ -1,0 +1,14 @@
+//Consider the situation that Mr.Smith climbs up stairs.
+//He can climb 1 step or 2 steps at one time.
+//It costs him 1 calory for climbing 1 step, 
+//and 3 calories for climbing 2 steps at one time.
+//Q1: Now Mr.Smith needs to climb m steps and he only has n calories.
+//How many ways are there for him to climb m steps ?
+//Q2: After eating too much, Mr.Smith decides to climb m steps for losing weight.
+//Now he also has n calories left.
+//At this time, he wants to consume as much calories as possible 
+//but no more than n calories.
+//How many ways are there for him to climb m steps ?
+
+Question one, using the recursive algorithm, when Mr. Smith is located in the mth step, he only has two possibilities, one from the m-1 step, the other from the m-2 step, and m-1 and m-2 and respectively correspond to their respective two cases, so take the recursive.
+Question 2, using the greedy algorithm, firstly, keep cycling calories-3 and steps-2 until you meet exactly one step down, record the number of 2 steps and the number of 1 step at that point, and use the arrangement number formula to calculate the number of ways to walk.

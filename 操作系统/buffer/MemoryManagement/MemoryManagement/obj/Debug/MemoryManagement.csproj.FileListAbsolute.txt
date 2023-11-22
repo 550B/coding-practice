@@ -1,0 +1,11 @@
+D:\code\os\buffer\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe.config
+D:\code\os\buffer\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.exe
+D:\code\os\buffer\MemoryManagement\MemoryManagement\bin\Debug\MemoryManagement.pdb
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.AssemblyReference.cache
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.SuggestedBindingRedirects.cache
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.Properties.Resources.resources
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.GenerateResource.cache
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.csproj.CoreCompileInputs.cache
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.exe
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\MemoryManagement.pdb
+D:\code\os\buffer\MemoryManagement\MemoryManagement\obj\Debug\test.Form1.resources

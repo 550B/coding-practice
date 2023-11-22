@@ -1,0 +1,14 @@
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.AssemblyReference.cache
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.Properties.Resources.resources
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.GenerateResource.cache
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.csproj.CoreCompileInputs.cache
+D:\code\os\file\FileManagementSystem\FileManagementSystem\bin\Debug\FileManagementSystem.exe.config
+D:\code\os\file\FileManagementSystem\FileManagementSystem\bin\Debug\FileManagementSystem.exe
+D:\code\os\file\FileManagementSystem\FileManagementSystem\bin\Debug\FileManagementSystem.pdb
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.exe
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.pdb
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.FileManager.resources
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.TextEditor.resources
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.FileCreator.resources
+D:\code\os\file\FileManagementSystem\FileManagementSystem\obj\Debug\FileManagementSystem.FileAttributes.resources

@@ -1,0 +1,11 @@
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe.config
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.exe
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\bin\Debug\PowerCalculator.pdb
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.AssemblyReference.cache
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.SuggestedBindingRedirects.cache
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Form1.resources
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.Properties.Resources.resources
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.GenerateResource.cache
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.csproj.CoreCompileInputs.cache
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.exe
+D:\code\raspberrypi\PC\PowerCalculator\PowerCalculator\obj\Debug\PowerCalculator.pdb

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\各种事情\沈坚\作业\temp\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.附件 4-b5-求1^2+~+n^2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="每一位平方和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\各种事情\沈坚\作业\temp\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.附件 4-b7-整数正序分解.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="分解整数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="斐波那契数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\各种事情\沈坚\作业\temp\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.附件 4-b9-求Fibonacci数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\各种事情\沈坚\作业\temp\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.附件 4-b10-判断幂.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="十进制基数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\各种事情\沈坚\作业\temp\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.附件 4-b11-打印字母塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="字母塔.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\各种事情\沈坚\作业\temp\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.第04模块 作业 - PART2 - 递归专场\22231-040102-W0701.附件 4-b12-汉诺塔-基本移动.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="汉诺塔步骤.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

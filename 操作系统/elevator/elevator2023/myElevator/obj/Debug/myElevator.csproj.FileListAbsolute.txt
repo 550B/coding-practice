@@ -1,0 +1,11 @@
+D:\code\os\elevator\elevator2023\myElevator\bin\Debug\myElevator.exe.config
+D:\code\os\elevator\elevator2023\myElevator\bin\Debug\myElevator.exe
+D:\code\os\elevator\elevator2023\myElevator\bin\Debug\myElevator.pdb
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.csproj.AssemblyReference.cache
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.csproj.SuggestedBindingRedirects.cache
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.Form1.resources
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.Properties.Resources.resources
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.csproj.GenerateResource.cache
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.csproj.CoreCompileInputs.cache
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.exe
+D:\code\os\elevator\elevator2023\myElevator\obj\Debug\myElevator.pdb
